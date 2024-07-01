@@ -1,0 +1,14 @@
+* main
+  remotes/origin/0.6
+  remotes/origin/nbc
+  remotes/origin/tags/0.2.0
+  remotes/origin/tags/0.3.0
+  remotes/origin/tags/0.4.0
+  remotes/origin/tags/0.4.1
+  remotes/origin/tags/0.4.2
+  remotes/origin/tags/0.5.0
+  remotes/origin/tags/0.5.1
+  remotes/origin/tags/0.6.0
+  remotes/origin/tags/0.6.1
+  remotes/origin/trunk
+  remotes/origin/work
